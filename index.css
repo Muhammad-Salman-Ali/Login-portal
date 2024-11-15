@@ -1,0 +1,12 @@
+.login-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-child{
+    height: 350px;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 150px;
+    box-shadow: 5px 8px 5px 8px;
+}
